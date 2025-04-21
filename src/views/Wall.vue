@@ -69,7 +69,7 @@
 import data from '@/assets/data.json'
 import ConnectingWall from '@/components/ConnectingWall.vue'
 import Modal from '@/components/Modal.vue'
-import Timer from '@/components/Timer.vue'
+
 
 export default {
   props: {
